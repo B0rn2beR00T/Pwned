@@ -1,4 +1,5 @@
 Добро пожаловать!
 
-- My TryHackMe accaunt https://tryhackme.com/p/CooperCTF
-- My HackMeBox accaunt https://
+My social 
+- TryHackMe https://tryhackme.com/p/CooperCTF
+- HackMeBox https://
