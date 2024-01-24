@@ -8,10 +8,9 @@ sudo nmap -A 10.10.61.18
 
 Видим 2 открытых порта - 22 и 80
 
-![[Pasted image 20240121180845.png]]
-
-![[Pasted image 20240121180926.png]]
-![[Pasted image 20240121180945.png]]
+![Pasted image 20240121180845](https://github.com/Cooper14052/Pwned/assets/79376063/b1968d37-4add-47a8-a89e-6629ca5e951f)
+![Pasted image 20240121180926](https://github.com/Cooper14052/Pwned/assets/79376063/832eef67-7f31-4d85-85df-948663f812c0)
+![Pasted image 20240121180945](https://github.com/Cooper14052/Pwned/assets/79376063/f441abce-46cc-4fae-bba6-38012eb428b3)
 
 Заходим на веб-страницу машины
 ![[Pasted image 20240121181448.png]]
