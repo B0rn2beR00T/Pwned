@@ -13,7 +13,7 @@ sudo nmap -A 10.10.61.18
 ![Pasted image 20240121180945](https://github.com/Cooper14052/Pwned/assets/79376063/f441abce-46cc-4fae-bba6-38012eb428b3)
 
 Заходим на веб-страницу машины
-![image](https://github.com/Cooper14052/Pwned/assets/79376063/b22adc99-0990-4a93-9047-3299abba36bc)
+![Pasted image 20240121181448](https://github.com/Cooper14052/Pwned/assets/79376063/fcc4f805-6ebf-482d-a395-d87b174192b7)
 Сканируем директории 
 ~~~
 gobuster dir -u http://10.10.61.18/ -w /usr/share/wordlists/dirb/common.txt
