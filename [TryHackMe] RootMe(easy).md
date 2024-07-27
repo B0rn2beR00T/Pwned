@@ -96,7 +96,3 @@ find / -name user.txt
 ![Pasted image 20240121234200](https://github.com/Cooper14052/Pwned/assets/79376063/04cc8d9c-2b0a-4522-9b37-4dd876d022da)
 
 ![Pasted image 20240121234248](https://github.com/Cooper14052/Pwned/assets/79376063/3f9bfec1-a43a-47a0-a8e8-77c2010956e7)
-
-![Pasted image 20240121234427](https://github.com/Cooper14052/Pwned/assets/79376063/216dec1b-1806-4e5b-a7ff-e4a9b1526582)
-
-В дальнейшем я хочу найти больше способов пройти эту машину. На данный момент публикую в таком виде, но буду вносить поправки с найденными уязвимостями.
